@@ -131,6 +131,7 @@ IL_0006:
 	{
 		int32_t L_0 = V_0;
 		int32_t L_1 = V_1;
+		// Just a note that il2cpp_codegen_add is inlined so we will not have performance hit for method call
 		V_0 = ((int32_t)il2cpp_codegen_add(L_0, L_1));
 		int32_t L_2 = V_1;
 		V_1 = ((int32_t)il2cpp_codegen_add(L_2, 1));
