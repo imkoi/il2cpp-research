@@ -166,5 +166,4 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InlineExample_Awake_m65BC047E9602B3D30C5
 }
 ```
 
-I dont know why il2cpp generates two version of method,
-because as I understand method that cannot be inlined because of recursions and scary loops - should will be not inlined in asm
+I would say that cpp compiler will optimize this code, and in most cases will remove unused not inlined method
