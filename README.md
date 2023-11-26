@@ -7,5 +7,6 @@ Topics:
 * [Types and Virtual Machine](TypesAndVM.md)
 * [Method calls, Inlined and Not inlined](Inlines.md)
 * [Fields and properties](FieldAndProperties.md)
+* [Statics usage](Statics.md)
 
 If you would see more topics - please give me the feedback :)
